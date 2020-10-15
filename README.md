@@ -1,6 +1,6 @@
 # HUMA-7P74 | JULIE GEMUEND
 
-![](Screen Shot 2020-10-15 at 8.50.35 AM.png)
+![](Plexi Moon.png)
 
 Welcome to my website. More to come.
 
