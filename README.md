@@ -1,5 +1,7 @@
 # HUMA-7P74 | JULIE GEMUEND
 
+![](https://live.staticflickr.com/2151/1572189529_63849e614e_b.jpg)
+
 Welcome to my website. More to come.
 
 ## Bio
