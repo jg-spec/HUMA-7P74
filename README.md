@@ -6,8 +6,7 @@ Welcome to my website. More to come.
 
 ## Bio
 
-<iframe src="https://player.vimeo.com/video/414541630" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
-<p><a href="https://vimeo.com/414541630">True Dust</a> from <a href="https://vimeo.com/user8587061">Julie Gemuend</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
+<iframe src="https://player.vimeo.com/video/414541630?loop=1&title=0&byline=0&portrait=0" width="740" height="460" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 
 Here is my short bio:
 
