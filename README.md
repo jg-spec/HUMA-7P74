@@ -8,7 +8,7 @@ Here is my short bio:
 
 ## Presentation
 
-Acces presentation materials [here]{presentation}
+Access presentation materials [here](presentation).
 
 ## Voyant
 
