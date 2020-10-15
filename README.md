@@ -12,12 +12,12 @@ Access presentation materials [here](presentation).
 
 ## Voyant
 
-View my voyant visualizations [here]{voyant}
+View my voyant visualizations [here](voyant).
 
 ## Zaxis
 
-View my zaxis maps [here]{zaxis}
+View my zaxis maps [here](zaxis).
 
 ## Seminar Essay
 
-Read my essay [here]{essay}
+Read my essay [here](essay).
