@@ -25,7 +25,7 @@ View my voyant visualizations [here](Voyant).
 
 ## Zaxis
 
-View my zaxis maps [here](zaxis).
+View my zaxis maps [here](Zaxis).
 
 ## Seminar Essay
 
