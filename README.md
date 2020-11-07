@@ -21,11 +21,11 @@ Password: 7P74
 
 ## Voyant
 
-View my voyant visualizations [here](Voyant).
+View my voyant visualizations [here](voyant).
 
 ## Zaxis
 
-View my zaxis maps [here](Zaxis).
+View my zaxis maps [here](zaxis).
 
 ## Seminar Essay
 
