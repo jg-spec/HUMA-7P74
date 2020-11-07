@@ -21,7 +21,7 @@ Password: 7P74
 
 ## Voyant
 
-View my voyant visualizations [here](voyant).
+View my voyant visualizations [here](Voyant).
 
 ## Zaxis
 
