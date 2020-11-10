@@ -25,3 +25,13 @@ you should add an explicit protocol (https if you're using voyant-tools.org, oth
 it depends on this server.
 Feel free to change the height and width values or other styling below: -->
 <iframe style='width: 477px; height: 356px;' src='https://voyant-tools.org/tool/CollocatesGraph/?query=memory*&query=fix*&query=eyes*&query=tea*&mode=corpus&context=13&corpus=9ec9975150b4c881011d79e071cd328c'></iframe>
+
+## Rebecca by Daphne Du Maurier
+
+<!--	Exported from Voyant Tools (voyant-tools.org).
+The iframe src attribute below uses a relative protocol to better function with both
+http and https sites, but if you're embedding this into a local web page (file protocol)
+you should add an explicit protocol (https if you're using voyant-tools.org, otherwise
+it depends on this server.
+Feel free to change the height and width values or other styling below: -->
+<iframe style='width: 477px; height: 322px;' src='https://voyant-tools.org/tool/Trends/?query=rebecca&query=winter&mode=document&corpus=05b70858dcb0dcc9c91e59c20c5ae9c8'></iframe>
