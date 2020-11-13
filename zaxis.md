@@ -2,9 +2,9 @@
 
 ## Images
 
-![](Z_Axis Nightwood Image 1.png)
+![](assets/Z_Axis Nightwood Image 1.png)
 
-![](Z_Axis Nightwood Image 2.png)
+![](assets/Z_Axis Nightwood Image 2.png)
 
 ## Turntable Movie
 
