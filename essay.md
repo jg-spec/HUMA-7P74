@@ -3,7 +3,7 @@
 ## Abstract and Prototype
 
 </br> <span style=color:#7CFC00;">*CLOUDS :+:+:+: SHADOWS :+:+:+: REFLECTIONS*
-</span><div class="text-purple mb-2">
+</span>
 
 ![](assets/prototype sketch 01.JPG)
 
