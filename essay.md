@@ -6,8 +6,6 @@
   **CLOUDS :+:+:+: SHADOWS :+:+:+: REFLECTIONS** <a href="#" class="text-inherit">including the link</a>
 </div>
 
-**CLOUDS :+:+:+: SHADOWS :+:+:+: REFLECTIONS**
-
 ![](assets/prototype sketch 01.JPG)
 
 ![](assets/prototype sketch 02.JPG)
