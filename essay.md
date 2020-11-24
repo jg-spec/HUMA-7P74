@@ -2,7 +2,7 @@
 
 ## Abstract and Prototype
 
-![](assets/sketch 02.JPG)
+![](assets/sketch 03.JPG)
 
 ![](assets/sketch 01.JPG)
 
