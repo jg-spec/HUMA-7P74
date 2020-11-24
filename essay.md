@@ -2,6 +2,12 @@
 
 ## Abstract and Prototype
 
+<body>
+  <p style="color:#FF0000";>Red paragraph text</p>
+</body>
+
+**CLOUDS :+:+:+: SHADOWS :+:+:+: REFLECTIONS**
+
 ![](assets/prototype sketch 01.JPG)
 
 ![](assets/prototype sketch 02.JPG)
