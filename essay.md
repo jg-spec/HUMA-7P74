@@ -1,6 +1,6 @@
 # Seminar Essay
 
-## Abstract and Prototype
+## Abstract and Prototype(s)
 
 **CLOUDS :+:+:+: SHADOWS :+:+:+: REFLECTIONS**
 
