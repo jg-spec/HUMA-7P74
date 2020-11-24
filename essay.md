@@ -30,6 +30,7 @@ That was the summer there were so many clouds we didn’t know what to do with t
 **Works Cited**
 
 McCarty, Willard. *Humanities Computing*. Palgrave Macmillan, 2005.
+
 Ruefle, Mary. *My Private Property*. Wave Books, 2016.
 
 
