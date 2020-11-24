@@ -2,9 +2,9 @@
 
 ## Abstract and Prototype
 
-<body>
-  <p style="color:#FF0000";>Red paragraph text</p>
-</body>
+<div class="text-purple">
+  **CLOUDS :+:+:+: SHADOWS :+:+:+: REFLECTIONS** <a href="#" class="text-inherit">including the link</a>
+</div>
 
 **CLOUDS :+:+:+: SHADOWS :+:+:+: REFLECTIONS**
 
