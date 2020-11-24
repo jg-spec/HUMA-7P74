@@ -2,9 +2,8 @@
 
 ## Abstract and Prototype
 
-<div class="text-purple mb-2">
-  .**CLOUDS :+:+:+: SHADOWS :+:+:+: REFLECTIONS**
-</div>
+</br> <span style=color:#7CFC00;">*CLOUDS :+:+:+: SHADOWS :+:+:+: REFLECTIONS*
+</span><div class="text-purple mb-2">
 
 ![](assets/prototype sketch 01.JPG)
 
