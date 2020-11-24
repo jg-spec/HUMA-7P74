@@ -2,10 +2,19 @@
 
 ## Abstract and Prototype
 
-</br> <span style="font-color:#7CFC00;">*CLOUDS :+:+:+: SHADOWS :+:+:+: REFLECTIONS*
-</span>
+**CLOUDS :+:+:+: SHADOWS :+:+:+: REFLECTIONS**
+
+This project will emerge as a website or twine game and comprise text, video, sound, and potentially some pencil drawings or illustrations. I aim to construct visualizations that will be beautiful as well as meaningful, in the manner of Stephanie Posavec’s infographics.
+
+There are **two** still yet unformed and milky trajectories in play — one leaning nonrealist, the other realist:
+
+1) *Among the Clouds* is a very short text written by Mary Ruefle (see below), which I read in the Spring. The text intersected with the inception of the pandemic — the first wave. Ruefle’s story is about clouds but because clouds are amorphous, ephemeral, and indistinct entities they could easily be transposed with other phenomena — we might then replace clouds with Covid-19. Playful, creative thinking challenges previously-held characterizations of the human as autonomous, bound individual as well as uncover new narratives. Like Ruefle’s clouds, the virus appeared suddenly ubiquitous and seemingly “irrational, impossible, baffling and alarming,” casting  “long shadows in an unearthly light” across our lives. Ruefle’s text would function as a guide, or a framework for mapping the first wave of the virus. Information for the mapping would derive from a yet-to-be-decided source (journal article, social media, news outlet?). Visualizations of virus-as-clouds would be made by me (still and moving images with elements of college?). This reflection of the virus, expressed through the imagery of clouds, will take a nonrealist approach, allowing us to reimagine the virus both from a distance (temporally - looking back/reflecting) and up close through the visualization. 
 
 ![](assets/prototype sketch 01.JPG)
+
+*Today, you are a cloud. You are floating roughly 6500 feet above the surface of Earth. You observe the activity below and this is what you see.*
+
+2)The alternative is to make the viewer the cloud, which would encourage a kind of objective, removed (but curious?) perspective. Both of these ideas contain the potential to bridge spatial/temporal gaps through storytelling, presenting a kind of double image (reflection) that demonstrates clarity from a distance (realist), jumble up close (nonrealist) (Geertz in McCarty 115). The reflection occurs on two levels: a) returning to and reexamining an event in recent history; b) through the use of coloured plexi (video below) which creates a similar effect to the double exposure. The cloud-viewer might travel from the troposphere to the Earth’s surface — telescoping or compressing the space between past and present, distance and intimacy, local and universal. This approach would begin with the italiczed text above and use found footage (manipulated by me?), perhaps located through hashtags that are themselves derived from a larger “text” (social media, news outlets, etc).
 
 ![](assets/prototype sketch 02.JPG)
 
