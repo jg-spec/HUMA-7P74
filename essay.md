@@ -2,8 +2,8 @@
 
 ## Abstract and Prototype
 
-<div class="text-purple">
-  **CLOUDS :+:+:+: SHADOWS :+:+:+: REFLECTIONS** <a href="#" class="text-inherit">including the link</a>
+<div class="text-purple mb-2">
+  .**CLOUDS :+:+:+: SHADOWS :+:+:+: REFLECTIONS**
 </div>
 
 ![](assets/prototype sketch 01.JPG)
