@@ -33,4 +33,4 @@ McCarty, Willard. *Humanities Computing*. Palgrave Macmillan, 2005.
 
 Ruefle, Mary. *My Private Property*. Wave Books, 2016.
 
-
+##Cloud: Take 1##
