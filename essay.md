@@ -20,7 +20,7 @@ The alternative is to make the viewer the cloud, which would encourage an object
 ![](assets/prototype sketch 02.JPG)
 Idea #2
 
-<div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/483121354?autoplay=1&loop=1&title=0&byline=0&portrait=0" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
+<div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/483121354?title=0&byline=0&portrait=0" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
 <p>Experimenting with coloured plexi as a form of reflection in the sense of looking back and creating a double image.</p>
 
 **Among the Clouds by Mary Ruefle**
