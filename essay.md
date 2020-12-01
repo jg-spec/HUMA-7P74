@@ -36,3 +36,5 @@ Ruefle, Mary. *My Private Property*. Wave Books, 2016.
 **CLOUD: TAKE 1**
 
 ![](assets/Untitled-1 copy.jpg)
+
+![](assets/black cloud.jpg)
