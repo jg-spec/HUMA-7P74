@@ -1,5 +1,11 @@
 # Seminar Essay
 
+{::nomarkdown}
+<video width="100%" height="auto" controls>
+  <source src="assets/Shadow Dynamic Graph.m4v" type="video/mp4">
+</video>
+{:/}
+
 ## Abstract and Prototype(s)
 
 **CLOUDS :+:+:+: SHADOWS :+:+:+: REFLECTIONS**
