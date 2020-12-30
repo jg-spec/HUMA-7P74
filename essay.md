@@ -1,5 +1,12 @@
 # Seminar Essay
 
+## Shadow-Quest: Imperatives for Knowledge Production in Dark Times
+
+Our entanglement with shadows stretches long and cuts deep across thick time, here narrow, there wide, in some cases quiet and familiar, inimical and strange in others. “Shadow” does not refer to a property of a thing <sup>1</sup>, rather it depends on its positioning and demands that questions be asked. The relationship between shadow and light cannot be dissolved, as one defines the other, yet we can observe the pliability of their boundary as it moves in different directions, never to disappear. Information contained within the shadow itself is indeed hidden, but only partially, and thus can be represented and imagined in scholarly research and creative practices. 
+
+
+## Media
+
 {::nomarkdown}
 <video width="100%" height="auto" controls>
   <source src="assets/Dynamic Shadow Graph v2.mov" type="video/mp4">
