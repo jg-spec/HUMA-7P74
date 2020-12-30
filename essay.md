@@ -11,6 +11,10 @@ Anzaldua, Gloria. “Let Us Be the Healing of the Wound: The Coyolxauhqui Impera
 
 Barfield, Owen. *What Coleridge Thought.* Wesleyan UR, 1971.			
 
+Barthes, Roland. *The Pleasure of the Text.* Hill and Wang, 1975.
+
+Bartlett, C., Marshall, M., & Marshall, A. "Two‐Eyed Seeing and Other Lessons Learned Within A Co‐Learning Journey of Bringing Together Indigenous and Mainstream Knowledges and Ways of Knowing. *Journal of Environmental Studies and Sciences,* vol. 2, no. 4, 2012, pp. 331–340, doi.org/10.1007/s13412‐012‐0086‐8.			
+
 Batchen, Geoffrey. *Burning with Desire: The Conception of Photography.* MIT Press, 1999.				
 
 Berger, John and Jean Mohr. *Another Way of Telling.* Vintage Books, 1982. 					
@@ -29,7 +33,9 @@ Hackett, Edward. “Essential Tensions. Identity, Control and Risk in Research.�
 
 Jung, Carl. *The Archetypes and the Collective Unconscious.* Princeton University Press, 1981.		
 
-Merton, Robert. “Three Fragments from a Sociologist’s Notebooks: Establishing the Phenomenon, Specified Ignorance, and Strategic Research Materials.” *Annual Review of Sociology,* vol. 12, no. 1, 1987, pp. 1-28. 				
+Merton, Robert. “Three Fragments from a Sociologist’s Notebooks: Establishing the Phenomenon, Specified Ignorance, and Strategic Research Materials.” *Annual Review of Sociology,* vol. 12, no. 1, 1987, pp. 1-28. doi.org/10.1146/annurev.so.13.080187.000245.			
+
+Newhall, Beaumont. *The Daguerreotype in America.* Dover Publications, 1976. 
 
 Proctor, Robert. “Agnotology: A Missing Term to Describe the Cultural Production of Ignorance.” *Agnotology: The Making and Unmaking of Ignorance,* edited by R. Proctor and L. Schiebinger, Stanford University Press, 2008, pp. 1-36. 
 
