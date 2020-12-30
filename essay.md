@@ -8,20 +8,35 @@
 
 ## Works Cited				
 Anzaldua, Gloria. “Let Us Be the Healing of the Wound: The Coyolxauhqui Imperative—La Sombra y el Sueño.” *This bridge we call home,* edited by Gloria Anzaldua and Ana Louise Keating. Routledge, 2009, pp. 9-22.			
+
 Barfield, Owen. *What Coleridge Thought.* Wesleyan UR, 1971.			
+
 Batchen, Geoffrey. *Burning with Desire: The Conception of Photography.* MIT Press, 1999.				
+
 Berger, John and Jean Mohr. *Another Way of Telling.* Vintage Books, 1982. 					
+
 Coleridge, Samuel Taylor. "The Friend." *The Collected Works of Samuel Taylor Coleridge,* edited by Kathleen Coburn, Princeton UP, 1969.		
+
 ------ . "Theory of Life." *The Collected Works of Samuel Taylor Coleridge,* edited by Kathleen Coburn, Princeton UP, 1995, pp. 481-557. 
+
 ------. "Biographia Literaria." *SamuelTaylor Coleridge: The Major Works,* edited by H. J. Jackson, Oxford UP, 2000. pp. 155-482. 
+
 Costello, Mark. “Biodiversity: The Known, Unknown, and Rates of Extinction.” *Current Biology,* vol. 25, no. 9, 2015, pp. R368-71. 	
+
 Conover, Emily. “‘Shadow Biosphere’ Might Be Hiding Strange Life Right Under Our Noses.” *Science (American Association for the Advancement of Science),* doi:10.1126/science.aaa7865.
+
 Hackett, Edward. “Essential Tensions. Identity, Control and Risk in Research.” *Social Studies of Science,* vol. 35, no. 5, 2005, pp. 787-826.	
+
 Jung, Carl. *The Archetypes and the Collective Unconscious.* Princeton University Press, 1981.		
+
 Merton, Robert. “Three Fragments from a Sociologist’s Notebooks: Establishing the Phenomenon, Specified Ignorance, and Strategic Research Materials.” *Annual Review of Sociology,* vol. 12, no. 1, 1987, pp. 1-28. 				
+
 Proctor, Robert. “Agnotology: A Missing Term to Describe the Cultural Production of Ignorance.” *Agnotology: The Making and Unmaking of Ignorance,* edited by R. Proctor and L. Schiebinger, Stanford University Press, 2008, pp. 1-36. 
+
 Snow, C. R. *The Two Cultures and the Scientific Revolution.* Cambridge University Press, 1993.
+
 Talbot, William Henry Fox. "A Brief Historical Sketch of the Invention of the Art." *Classic Essays on Photography,* edited by Alan Trachtenberg, Leete's Island Books, 1980, pp. 27-36. 	
+
 ------. "Some Account of the Art of Photogenic Drawing, or the Process by Which Natural Objects May Be Made to Delineate Themselves Without the Aid of the Artist's Pencil." Newhall, Photography, 23-31. 	
 
 ## Abstract and Prototype(s)
