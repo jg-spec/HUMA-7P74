@@ -29,4 +29,4 @@ View my zaxis maps [here](zaxis).
 
 ## Seminar Essay
 
-Read my essay [here](essay).
+Read my essay [here](https://jg-spec.github.io/HUMA-7P74/essay).
