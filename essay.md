@@ -24,19 +24,19 @@ Because of the realism they offer and because of their visual and conceptual com
 To represent a cast shadow with accuracy requires robust knowledge of perspective. This was one of the most important features of Renaissance painting, beginning with Alberti and Leonardo. The Renaissance secured the shadow’s role not only as an approach to pictorial realism but as emblematic of the psychological weight we bear. In 1628, Dutch master Rembrandt embraced shadows with his deft application of chiaroscuro — from the Italian *chiaro* (“clear, bright”) and *oscuro* (“dark, obscure”) — literally bright-dark. The term describes the effects of light and shade in a work of art, particularly when they are strongly contrasting. In an early self-portrait, Rembrandt depicts himself with eyes buried in swollen shadows, signalling a connection between vision and the light and dark forces of the psyche. 
 
 ![](assets/Rembrandt.png)
-Rembrandt, *Self-portrait*, 1628-1629
+<sub>Rembrandt, *Self-portrait*, 1628-1629</sub>
 
 Following the Renaissance, shadows became a staple in Western painting, such that viewers adapted to and expected their appearance in artworks. Adelbert von Chamisso’s story of *Peter Schlemiel: The Man Who Sold His Shadow* (1814), was Illustrated by many artists in the nineteenth century. Peter’s shadowlessness and subsequent social rejection reinforced the shadow’s power of realism, making evident the idea that possessing a shadow was a sign of authenticity — of being human. 
 Where the presence of shadows imparts realism, their absence signals a disengagement from the real. 
 
 ![](assets/PS2.jpg)
 
-George Cruikshank, *Peter Schlemihl Selling His Shadow*, 1827
+<sub>George Cruikshank, *Peter Schlemihl Selling His Shadow*, 1827</sub>
 
 Canadian folk artist Maud Lewis constructed colourful and sincere expressions of bucolic settings in Nova Scotia. Lewis has been labelled a Naive artist, part of a movement which emerged at the end of the nineteenth century with the work of "Le Douanier" Henri Rousseau, characterized by flat, childlike scenes; erroneous perspective; and an untrained hand. Lewis’s small paintings are bright with sunshine, and filled with blue skies, crystal snow and calm waters. The lack of perspective combined with almost no sense of shadow or light resulted in the historical shuffle of such paintings to the dusty, untrafficked corners of the common record, where they keep company with the dark. 
 
 ![](assets/Lewis Grazing 63.jpg)
-Maud Lewis, *Grazing*, 1963
+<sub>Maud Lewis, *Grazing*, 1963</sub>
 
 To a large extent, the presence or absence of shadows expressed in creative practice works to manipulate our sense of realism or suggest the dark and foreboding side of the subjects and phenomena represented. This latter tendency has been emboldened by Jungian psychology, wherein the shadow, or “shadow archetype”, embodies the unconscious, unknown, or repressed aspect of the personality. As specified by Jung, the shadow personifies everything that a person refuses to know about himself (Jung 284). “Shadow,” writes Jung, is “the inferior part of the personality” and “because of their incompatibility with the chosen conscious attitude, are denied expression in life and therefore coalesce into a relatively autonomous ‘splinter personality’ with contrary tendencies in the unconscious” (Jung 284). This splintering of the shadow to the realm of the unknown is useful to consider in terms of knowledge production, where light is aligned with knowledge and shadow with ignorance. In Jung’s theory, the encounter with the shadow not only plays a central role in the process of individuation but epistemically, with regards to the limits and validity of knowledge. Furthermore, although the shadow archetype often appears negative, occasionally traits and associations arising from the shadow can suggest a positive resolution to conflict. This involves the transformational process of confronting what Gloria Anzaldua calls the “shadow self.”This confrontation offers a seeming paradox: “the knowledge that exposes your fears can also remove them” (Anzaldua 553).
 
@@ -61,8 +61,8 @@ Analogous connections between opposites had been observed by scientists and expl
 When Talbot presented his photographic process to the Royal Society in January 1839, he delineated the importance of darkness to the medium as much as he did light. In *Some Account of Photogenic Drawing*, Talbot emphasized the workings of light in the process by naming it "photogenic drawing," from the Greek *photo* and *genesis*, meaning "made by light." He also characterizes photogenic drawing as "the art of fixing a shadow," and the images themselves as "shadow-pictures" (25-26). For Talbot, light and shadow are mutually defining — each is produced by the other's absence — yet there is something paradoxical about his oscillation between the terms. In juxtaposing the phrases “made by light" and "fixing a shadow," Talbot weds two concepts that seem to be opposites or inverses of each other. Thus, photography, despite its positivist roots, is better imagined as polar, functioning at the border of light and shadow knowledge — of realist and non-realist epistemologies. 
 
 ![](assets/Talbot.jpg)
-William Henry Fox Talbot, *A Leaf*, ca. 1840. 
-Photogenic drawing negative (left), salted paper print (right)
+<sub>William Henry Fox Talbot, *A Leaf*, ca. 1840. 
+Photogenic drawing negative (left), salted paper print (right)</sub>
 
 Talbot’s notion that photographs embodied contradictory or polar forces link the opposites of light and shadow and had important consequences for photography's reception. In 1839, the "two cultures" of science and the arts, famously identified by C. R Snow in 1959, were not easily demarcated (Snow). Like many of his contemporaries, Talbot personified the union of scientific and humanistic inquiry and the implicit belief that both endeavours contributed to an understanding of ultimate truths. A philologist and classicist, Talbot took seriously the meanings of words and the role language plays in a culture's history and mythology. In characterizing photogenic drawing as a medium of light and shadow, Talbot used language that had been a staple of art historical and romantic philosophical discourses long before photography was invented.		
 
