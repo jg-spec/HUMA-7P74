@@ -108,9 +108,7 @@ Batchen, Geoffrey. *Burning with Desire: The Conception of Photography.* MIT Pre
 
 Berger, John and Jean Mohr. *Another Way of Telling.* Vintage Books, 1982. 					
 
-Coleridge, Samuel Taylor. "The Friend." *The Collected Works of Samuel Taylor Coleridge,* edited by Kathleen Coburn, Princeton UP, 1969.		
-
------- . "Theory of Life." *The Collected Works of Samuel Taylor Coleridge,* edited by Kathleen Coburn, Princeton UP, 1995, pp. 481-557. 
+Coleridge, Samuel Taylor. "Theory of Life." *The Collected Works of Samuel Taylor Coleridge,* edited by Kathleen Coburn, Princeton UP, 1995, pp. 481-557. 
 
 ------. "Biographia Literaria." *SamuelTaylor Coleridge: The Major Works,* edited by H. J. Jackson, Oxford UP, 2000. pp. 155-482. 
 
